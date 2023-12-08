@@ -1,6 +1,6 @@
 package com.javaprogram;
 
-public class pengulanganwhile {
+public class PengulanganWhile {
     public static void main(String[] args) {
 
         int a = 0;
